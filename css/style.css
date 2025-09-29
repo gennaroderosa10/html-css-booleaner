@@ -24,3 +24,16 @@ header {
 .data {
     font-size: 11px;
 }
+
+.thead {
+    background-color: #24a7e4;
+}
+
+.th {
+    color: white;
+    text-align: left;
+}
+
+.tbody {
+    background-color: #71c8f0;
+}
