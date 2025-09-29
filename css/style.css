@@ -25,6 +25,10 @@ header {
     font-size: 11px;
 }
 
+table {
+    border-collapse: collapse;
+}
+
 .thead {
     background-color: #24a7e4;
 }
