@@ -1,3 +1,13 @@
-body{
-    background-color: yellow;
+header {
+    background-color: #24a7e4;
+    background-image: url(../img/pattern.png);
+    height: 140px;
+    width: 2000px;
+}
+
+
+.logo{
+    text-align: left;
+    height: 90px;
+
 }
