@@ -1,13 +1,26 @@
 header {
     background-color: #24a7e4;
     background-image: url(../img/pattern.png);
-    height: 140px;
+    height: 100px;
     width: 2000px;
 }
 
 
-.logo{
+.logo {
     text-align: left;
-    height: 90px;
+    height: 60px;
+}
 
+.intestazione {
+    color: gray;
+    font-size: 20px;
+    
+}
+
+.autore{
+    color: #24a7e4;
+}
+
+.data {
+    font-size: 11px;
 }
