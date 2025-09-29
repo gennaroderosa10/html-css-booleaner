@@ -37,3 +37,24 @@ header {
 .tbody {
     background-color: #71c8f0;
 }
+
+h2 {
+    color: grey;
+}
+
+.monitor {
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 200px;
+}
+
+.text-interessi {
+    color: white;
+    font-size: 25px;
+}
+
+.graph {
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 200px;
+}
