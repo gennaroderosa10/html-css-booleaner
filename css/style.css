@@ -1,14 +1,16 @@
 header {
     background-color: #24a7e4;
     background-image: url(../img/pattern.png);
+    width: 100%;
     height: 100px;
-    width: 2000px;
+   background-size: contain;
 }
 
 
 .logo {
-    text-align: left;
-    height: 60px;
+    width: 200px;
+    margin-top: 40px;
+  
 }
 
 .intestazione {
@@ -32,15 +34,20 @@ table {
 
 .thead {
     background-color: #24a7e4;
+    
 }
+
 
 .th {
     color: white;
     text-align: left;
+    width: 20%;
+    
 }
 
 .tbody {
     background-color: #71c8f0;
+
 }
 
 h2 {
